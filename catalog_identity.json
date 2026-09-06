@@ -1,0 +1,46 @@
+{
+  "format_version": 1,
+  "game": {
+    "name": "Pro Pinball: Timeshock!",
+    "id": "SLUS-00639",
+    "boot_exe": "SLUS_006.39"
+  },
+  "marketing": {
+    "description": "",
+    "publisher": "",
+    "year": "",
+    "region": "USA",
+    "players": 1
+  },
+  "rom_identity": {
+    "cue_name": "Pro Pinball - Timeshock! (USA).cue",
+    "bin_name": "Pro Pinball - Timeshock! (USA) (Track 01).bin",
+    "track_counts": [
+      34
+    ],
+    "require_cue": true,
+    "data_track": {
+      "size": 98130144,
+      "md5": "d684232f7c474f1a880a66abaa7a1d1f",
+      "sha1": "3727ef9cc68881e8f636f4c357bba8b4439a4864",
+      "crc32": "28d5b1eb"
+    },
+    "disc_fp": "8d38c8b06851aaee6b0eebedae76e447aba557c70e4e0c68e7d6b904b0d389b2"
+  },
+  "exe": {
+    "load_address": "0x80010000",
+    "entry_pc": "0x800938AC",
+    "text_size": "0x000BA800",
+    "stack_base": "0x801FFFF0"
+  },
+  "seeds": {
+    "count": 1207,
+    "source": "boot_exe_jal"
+  },
+  "warnings": [],
+  "notes": [
+    "entry_pc/load_address/text_size/stack_base taken from PS-X EXE header.",
+    "seeds are first-pass boot-EXE JAL targets (+ entry); expect to grow as overlays / runtime paths are discovered.",
+    "required_disc_fp is psxrecomp-toc-v1 (matches runtime DiscIdentity)."
+  ]
+}

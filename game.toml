@@ -1,0 +1,47 @@
+
+[game]
+name = "Pro Pinball: Timeshock!"
+id = "SLUS-00639"
+players = 1
+exe = "disc/SLUS_006.39"
+disc = "disc/Pro Pinball - Timeshock! (USA).cue"
+load_address = "0x80010000"
+entry_pc = "0x800938AC"
+text_size = "0x000BA800"
+stack_base = "0x801FFFF0"
+
+[prepare_disc]
+out_dir = "disc"
+bin_name = "Pro Pinball - Timeshock! (USA) (Track 01).bin"
+cue_name = "Pro Pinball - Timeshock! (USA).cue"
+boot_exe = "SLUS_006.39"
+known_sizes = [98130144]
+known_md5 = ["d684232f7c474f1a880a66abaa7a1d1f"]
+known_sha1 = ["3727ef9cc68881e8f636f4c357bba8b4439a4864"]
+known_crc32 = ["28d5b1eb"]
+
+[recompiler]
+bios_config = "psxrecomp/bios/SCPH5552.toml"
+seeds = "seeds/ghidra_funcs.txt"
+out_dir = "generated"
+strict = true
+
+[runtime]
+window_title = "Pro Pinball: Timeshock! Recompiled"
+memcard_dir = "saves"
+openbios = false
+
+[video]
+supersampling = 4
+renderer = "opengl"
+aspect_ratio = "4:3"
+
+[controller]
+default_mode = "digital"
+lock_mode = true
+multitap_analog = true
+
+[netplay]
+require_cue = true
+required_tracks = 34
+required_disc_fp = "8d38c8b06851aaee6b0eebedae76e447aba557c70e4e0c68e7d6b904b0d389b2"

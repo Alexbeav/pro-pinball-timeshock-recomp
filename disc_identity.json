@@ -1,0 +1,255 @@
+{
+  "schema": "psx.redump-disc-set.v1",
+  "discs": [
+    {
+      "index": 1,
+      "cue_name": "Pro Pinball - Timeshock! (USA).cue",
+      "bin_name": "Pro Pinball - Timeshock! (USA) (Track 01).bin",
+      "size": 98130144,
+      "md5": "d684232f7c474f1a880a66abaa7a1d1f",
+      "sha1": "3727ef9cc68881e8f636f4c357bba8b4439a4864",
+      "crc32": "28d5b1eb",
+      "track_count": 34,
+      "tracks": [
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 01).bin",
+          "size": "98130144",
+          "crc": "28d5b1eb",
+          "md5": "d684232f7c474f1a880a66abaa7a1d1f",
+          "sha1": "3727ef9cc68881e8f636f4c357bba8b4439a4864"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 02).bin",
+          "size": "21551376",
+          "crc": "fbcd4cce",
+          "md5": "8cb172fe73c466438c4d6c11584098bc",
+          "sha1": "dbea606544dea746f2067dcc3aa27188e023918c"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 03).bin",
+          "size": "4499376",
+          "crc": "abf4a483",
+          "md5": "69f10c574aac1ab5e1a7f30299023d44",
+          "sha1": "7ed902f628bc6cd28487d8ee9497304baa8aa1d3"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 04).bin",
+          "size": "4673424",
+          "crc": "27d4b5bf",
+          "md5": "9b6b79e9c9e047bfa14726c7eccf485f",
+          "sha1": "9770f372a19e2867a6ecddb55c1d805b7e483dd8"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 05).bin",
+          "size": "11397792",
+          "crc": "dad328d1",
+          "md5": "450a3c82a3887c03087627527102ff51",
+          "sha1": "044cf7c5d1791322836208995d48de5c1ec568cb"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 06).bin",
+          "size": "22353408",
+          "crc": "5f877474",
+          "md5": "8960d3a0d718cbdfc38085e6c8e253e2",
+          "sha1": "c3d2845a87a83df98c471a3dfc9cd97b37cea571"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 07).bin",
+          "size": "11355456",
+          "crc": "ad85bc1c",
+          "md5": "a67593f5d7d7aef204eebdb0bc28c298",
+          "sha1": "c3e0d4b25af9709eccca914d5fb40d397fbdb62b"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 08).bin",
+          "size": "4941552",
+          "crc": "61bd1fcc",
+          "md5": "e655f268869e3013e384804ffa404103",
+          "sha1": "1bb710f32e911557f187de97521d4ad68e1b192b"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 09).bin",
+          "size": "22268736",
+          "crc": "aa352c94",
+          "md5": "a3d6ce959f91d6c247a267a7633d5057",
+          "sha1": "289557ec51d0c0ba94dd562128e916dffe8bdfbd"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 10).bin",
+          "size": "22896720",
+          "crc": "eb48c9da",
+          "md5": "6bea562671b6e6a71351de9c34fa6f7b",
+          "sha1": "ead12037c9413828d450d64336dd405663105faf"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 11).bin",
+          "size": "11383680",
+          "crc": "2b840e58",
+          "md5": "65e96238a6afceb46e583cb71cdbd153",
+          "sha1": "cceea4b34481fff5a5e00edf49d778b424155315"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 12).bin",
+          "size": "23545872",
+          "crc": "a5bb533c",
+          "md5": "01871e986e916aedfb48f25de8c05d15",
+          "sha1": "a63a698e26d2b6e7f9fea45174f3395dcbffa3ac"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 13).bin",
+          "size": "11367216",
+          "crc": "cded9674",
+          "md5": "6d3a4a3111a6d61dafd9604c116e7935",
+          "sha1": "587db78c7f2e6ca231aecbe65cca55e301f12f82"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 14).bin",
+          "size": "13138272",
+          "crc": "bbb49680",
+          "md5": "d8226a484b8a56b6f0fd52584e151808",
+          "sha1": "0cedd3d0dcc92dce51b1a161d62769c72a7b6468"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 15).bin",
+          "size": "22953168",
+          "crc": "23f2b4e0",
+          "md5": "c8c34220bc4c1d875754431d0cc7a8d3",
+          "sha1": "9f8df1d40b545a25dcc9347a7cdd79cb762e93d7"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 16).bin",
+          "size": "10781568",
+          "crc": "cfcbad43",
+          "md5": "781aec8509ac5cd5346fb7239d919045",
+          "sha1": "2880f01a656cea952819235cab5311fedefa273f"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 17).bin",
+          "size": "11155536",
+          "crc": "86a3215a",
+          "md5": "375f3a60e1123765ed952c890e3b1fa2",
+          "sha1": "07d4ac4c1cb89be97777bc52807ce3cfee2e4da8"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 18).bin",
+          "size": "12096336",
+          "crc": "dbefaaaf",
+          "md5": "a1a91fe6a7060dbdc9c5e92cc0eb4e4d",
+          "sha1": "ea2ba665ee9f90965ec671f062e6b0dbddb6343b"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 19).bin",
+          "size": "24750096",
+          "crc": "04033a1c",
+          "md5": "a7b980d2701b2e88fc0b6debc7a2d924",
+          "sha1": "4e3cb3faff18c81685ed97ec97d9a44f23bafbbd"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 20).bin",
+          "size": "11576544",
+          "crc": "5f427986",
+          "md5": "e80245854b118ada45f6daad74302cf8",
+          "sha1": "adf20e869ecd29f12fa3d0ab615bb4fb94f843ff"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 21).bin",
+          "size": "13406400",
+          "crc": "79fc9359",
+          "md5": "53669b2a9d92b6b7f5324f3dc561b284",
+          "sha1": "1e54d4b9046d5eabd287779af586e23591935c6d"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 22).bin",
+          "size": "22983744",
+          "crc": "780228a5",
+          "md5": "9038c232914b4b866dc0bc2166655cf3",
+          "sha1": "7592e65e484f9567ad3f3116c6c206d9cc12dcec"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 23).bin",
+          "size": "11981088",
+          "crc": "337f38ff",
+          "md5": "6ba9d8bc398d0372218e41ef0adea5ee",
+          "sha1": "c95caed71382dcf78f9aab47b1d0b832b1b50220"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 24).bin",
+          "size": "18606672",
+          "crc": "2231651e",
+          "md5": "887110b06c00098c1517ed40417938fb",
+          "sha1": "edc6ee26e1f9c150cfca8b1ae2dfd314a60f10eb"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 25).bin",
+          "size": "11515392",
+          "crc": "8beac6ff",
+          "md5": "698610bff55fcd0eedc55bdac7f42a24",
+          "sha1": "f0e039ffd8dd44f6234fe91f233333095e7dc4ed"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 26).bin",
+          "size": "11501280",
+          "crc": "f8eed173",
+          "md5": "d57d9337edf859192a45e506a0968256",
+          "sha1": "58fdb2dba723b233df25c00251f3b9e43411d3d6"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 27).bin",
+          "size": "6077568",
+          "crc": "3e8a077d",
+          "md5": "a85a22ed99135d8784c3bd733f8f8c09",
+          "sha1": "147c93f59bd2370f1b7960eb67d10d99788d79f8"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 28).bin",
+          "size": "2737728",
+          "crc": "46c7574e",
+          "md5": "c866dbaf420a2a332a7400086500e41d",
+          "sha1": "e33a9332067d34a8ffe287ed56b224e7a9e9490b"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 29).bin",
+          "size": "11230800",
+          "crc": "6c13af73",
+          "md5": "487463b7b17a3c39cf0094c6f1f6972c",
+          "sha1": "65142b1214533e1f7ea7ec5825e3c186a986dd90"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 30).bin",
+          "size": "6345696",
+          "crc": "d2e0f840",
+          "md5": "f6676f10cc818456bc5078732df43026",
+          "sha1": "b3bfe23761f4291977984a3f00095a3902d96b99"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 31).bin",
+          "size": "21772464",
+          "crc": "4e127f1a",
+          "md5": "7b84b0cc0c71cde024ea547b9864b873",
+          "sha1": "300edf7cb4ce05fe3ae195eb60d8271564e725cd"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 32).bin",
+          "size": "11487168",
+          "crc": "6a3e1a82",
+          "md5": "488393d5c318eb6028011345c4d06fef",
+          "sha1": "0ba14e8d6da6465448d935320e849c5e351660af"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 33).bin",
+          "size": "3784368",
+          "crc": "32142ee5",
+          "md5": "e4fb25ecc19a65f084809ea33a196d25",
+          "sha1": "9f220a08fe1c72a065e009a5be8ddfed6383288d"
+        },
+        {
+          "name": "Pro Pinball - Timeshock! (USA) (Track 34).bin",
+          "size": "35632800",
+          "crc": "e04b33be",
+          "md5": "5077c51b199bba566c19674f3bd71268",
+          "sha1": "211e908b122ad42b6346855242571c75293200a0"
+        }
+      ]
+    }
+  ]
+}
